@@ -1,9 +1,0 @@
-﻿-- logger module started --
-main: Ejecutar vlc con la interfaz predeterminada. Use «cvlc» para usar vlc sin interfaz.
--- logger module stopped --
-﻿-- logger module started --
-main: Ejecutar vlc con la interfaz predeterminada. Use «cvlc» para usar vlc sin interfaz.
-cache_read error: AStreamSeekStream: hard seek failed
-cache_read error: AStreamSeekStream: hard seek failed
-cache_read error: AStreamSeekStream: hard seek failed
--- logger module stopped --
